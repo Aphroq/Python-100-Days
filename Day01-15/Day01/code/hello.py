@@ -6,7 +6,7 @@
 Version: 0.1
 Author: 骆昊
 Date: 2018-02-26
-
+test
 请将该文件命名为hello.py并在终端中通过下面的命令运行它
 python hello.py
 
